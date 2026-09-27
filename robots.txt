@@ -1,0 +1,8 @@
+# MERIDIAN Private Brokerage - Production Robots Configuration
+# https://meridianbrokerage.com
+
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://meridianbrokerage.com/sitemap.xml

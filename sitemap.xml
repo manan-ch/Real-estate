@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- 1. Homepage -->
+  <url>
+    <loc>https://meridianbrokerage.com/</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- 2. Luxury Homes for Sale (Buy) -->
+  <url>
+    <loc>https://meridianbrokerage.com/buy.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- 3. Sell Your Estate -->
+  <url>
+    <loc>https://meridianbrokerage.com/sell.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 4. Luxury Executive Rentals -->
+  <url>
+    <loc>https://meridianbrokerage.com/rent.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- 5. Mortgage & Financing Calculator -->
+  <url>
+    <loc>https://meridianbrokerage.com/mortgage.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 6. Real Estate Advisors & Agents -->
+  <url>
+    <loc>https://meridianbrokerage.com/agents.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- 7. Human Site Directory (HTML Sitemap) -->
+  <url>
+    <loc>https://meridianbrokerage.com/sitemap.html</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
