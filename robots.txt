@@ -1,8 +1,8 @@
 # MERIDIAN Private Brokerage - Production Robots Configuration
-# https://meridianbrokerage.com
+# https://meridianrealestates.netlify.app/
 
 User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://meridianbrokerage.com/sitemap.xml
+Sitemap: https://meridianrealestates.netlify.app/sitemap.xml
